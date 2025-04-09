@@ -28,9 +28,9 @@ I'm a passionate data professional with a strong foundation in **Data Science, M
 
 ## 🌱 Currently Learning
 
-- Neural Networks  
-- Model deployment  
-- Transformers Architecture
+- CNN 
+- Sentimental Analysis  
+- ANN
 
 ---
 
