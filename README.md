@@ -1,47 +1,50 @@
-## Hi there 👋
-I'm @AvulaBhumika, a passionate data scientist and developer with expertise in Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI. I enjoy driving comprehensive data analysis and creating innovative solutions.
-
-- 👀 I work on Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI, driving comprehensive data analysis and solutions.
-- 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/avula-bhumika-75a071213/">
-    <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="30">
-  </a>
+# 👋 Hi, I'm Bhumika
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=AvulaBhumika&style=for-the-badge">
 </a>
 
-With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Visualization tools, Natural Language Processing, and Deep Learning, I specialize in exploring and analyzing data to create meaningful insights. My experience extends to utilizing AWS for cloud computing, leveraging LLMs (Large Language Models) for advanced natural language processing tasks, and applying Generative AI for innovative data solutions. I am committed to leveraging cutting-edge AI technologies to develop impactful solutions and address real-world challenges. Continuously learning and adopting new technologies, I strive to stay at the forefront of data-driven innovation.
+🎯 **Data Research Intern | Aspiring Data Scientist | Fintech Enthusiast**  
+📍 Based in Hyderabad | 🌎 Working with a US-based fintech startup
+
+---
+
+## 🚀 About Me
+
+I'm a passionate data professional with a strong foundation in **Data Science, Machine Learning, and Analytics**. Currently interning at a fintech startup, where I help extract value from complex financial data through **exploratory analysis, predictive modeling**, and **data automation**. My work bridges the gap between raw data and actionable business insights.
+
+---
+
+## 🛠️ Core Skills
+
+- **Programming:** Python, SQL  
+- **ML & AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras  
+- **NLP:** NLTK, SpaCy  
+- **Data Tools:** Pandas, NumPy, Power BI, Tableau  
+- **Cloud & DevOps:** AWS (S3, EC2, SageMaker), Git, GitHub  
+- **Statistical Analysis:** Hypothesis Testing, Time-Series, A/B Testing  
+- **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn
+
+
+## 🌱 Currently Learning
+
+- Neural Networks  
+- Model deployment  
+- Transformers Architecture
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [E-mail](bhumikaavula90@gmail.co).  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/avula-bhumika-75a071213/). 
+- 🧠 Portfolio: [Portfolio](https://avula-bhumikaep-b623c7.netlify.app/).
+
+---
+
+> “Data is the new oil. But like oil, it’s valuable only when refined.”  
+> — Clive Humby
 
 
 
-## 🛠️ Skills
 
-<div style="display:flex;justify-content:center;">
-  <img src="https://img.icons8.com/color/1x/python.png" alt="Python" style="margin-right: 20px" title="Python">
-  <img src="https://img.icons8.com/external-vectorslab-flat-vectorslab/256/external-Data-Analysis-web-and-seo-vectorslab-flat-vectorslab.png" alt="Data Analysis" style="margin-right: 20px; height:60px" title="Data Analysis">
-  <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" alt="SQL" style="margin-right: 20px;width:90px;height:60px" title="SQL">
-  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/256/external-machine-big-data-wanicon-lineal-color-wanicon.png" alt="Machine Learning" style="margin-right: 20px;width:95px;height:60px" title="Machine Learning">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/stats-6344402-5233383.png?f=avif&w=256" alt="Statistics" style="margin-right: 20px;width:95px;height:60px" title="Statistics">
-  <img src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" alt="Git" style="margin-right: 20px;width:85px;height:60px" title="Git">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/natural-language-processing-nlp-5180300-4320747.png?f=avif&w=256" alt="NLP" style="margin-right: 20px;width:70px;height:60px" title="Natural Language Processing">
-</div>
-
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github-readme-stats.vercel.app">
-    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=AvulaBhumika&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AvulaBhumika&theme=onedark&hide_border=true"/>
-  </a>
-</div>
-
-## 🏆 Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AvulaBhumika&row=4&theme=onedark&no-frame=true"/>
-</a>
-
-## 🌐 Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvulaBhumika&layout=compact)](https://github.com/AvulaBhumika/github-readme-stats)
