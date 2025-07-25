@@ -37,7 +37,7 @@ I'm a passionate data professional with a strong foundation in **Data Science, M
 ## 📫 Let's Connect!
 
 - 📧 Email: [E-mail](bhumikaavula90@gmail.com).  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/avula-bhumika-308196365/). 
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhumika-a-802267370/). 
 - 🧠 Portfolio: [Portfolio](https://avb-1111.netlify.app/).
 
 ---
