@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=AvulaBhumika&style=for-the-badge">
 </a>
 
-🎯 **Data Research Intern | Aspiring Data Scientist | Fintech Enthusiast**  
-📍 Based in Hyderabad | 🌎 Working with a US-based fintech startup
+🎯 **Operations Associate – Content Moderation & Trust & Safety | SQL | ShareChat**  
+📍 Based in Bangalore | 🌎 Working at ShareChat
 
 ---
 
