@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=AvulaBhumika&style=for-the-badge">
 </a>
 
-🎯 **Operations Associate – Content Moderation & Trust & Safety | SQL | ShareChat(Mohalla Tech Pvt. Ltd.)**  
+🎯 **Operations Associate – Content Moderation & Trust & Safety | SQL | ShareChat (Mohalla Tech Pvt. Ltd.)**  
 📍 Based in Bangalore | 🌎 Working at ShareChat
 
 ---
