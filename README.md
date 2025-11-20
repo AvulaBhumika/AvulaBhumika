@@ -4,33 +4,31 @@
   <img src="https://komarev.com/ghpvc/?username=AvulaBhumika&style=for-the-badge">
 </a>
 
-🎯 **Operations Associate – Content Moderation & Trust & Safety | SQL | ShareChat**  
+🎯 **Operations Associate – Content Moderation & Trust & Safety | SQL | ShareChat(Mohalla Tech Pvt. Ltd.)**  
 📍 Based in Bangalore | 🌎 Working at ShareChat
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate data professional with a strong foundation in **Data Science, Machine Learning, and Analytics**. Currently interning at a fintech startup, where I help extract value from complex financial data through **exploratory analysis, predictive modeling**, and **data automation**. My work bridges the gap between raw data and actionable business insights.
+I'm passionate about building safe, inclusive online communities through a mix of content moderation, policy enforcement, and data-driven operations. I combine domain knowledge in Trust & Safety with practical skills in SQL, advanced spreadsheets, and quality management to improve platform integrity and user experience.
 
 ---
 
 ## 🛠️ Core Skills
-
-- **Programming:** Python, SQL  
-- **ML & AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras  
-- **NLP:** NLTK, SpaCy  
-- **Data Tools:** Pandas, NumPy, Power BI, Tableau  
-- **Cloud & DevOps:** AWS (S3, EC2, SageMaker), Git, GitHub  
-- **Statistical Analysis:** Hypothesis Testing, Time-Series, A/B Testing  
-- **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn
+- **Content Moderation • Trust & Safety • Policy Enforcement**  
+- **SQL** (basic → intermediate) — query writing, data checks  
+- **Advanced Excel / Google Sheets** — pivot tables, formulas, data validation  
+- **Quality Assurance • Process Design • Escalation Handling**  
+- **Languages:** English (business), Hindi, Telugu  
+- **Other tools:** Google Docs/Sheets, Slack
 
 
-## 🌱 Currently Learning
+## 🌱 Currently learning
+- Improving SQL for large-scale moderation analytics  
+- Basics of vector search / semantic matching (to understand content recommendation safety)  
+- Automating QA checks with lightweight scripts and templates
 
-- CNN 
-- Sentimental Analysis  
-- ANN
 
 ---
 
@@ -44,6 +42,7 @@ I'm a passionate data professional with a strong foundation in **Data Science, M
 
 > “Data is the new oil. But like oil, it’s valuable only when refined.”  
 > — Clive Humby
+> **AB**
 
 
 
