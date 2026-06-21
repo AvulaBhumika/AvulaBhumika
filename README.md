@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhumika%20Avula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Operations%20%26%20Analytics%20%7C%20Trust%20%26%20Safety%20%7C%20AI%20Automation&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhumika%20Avula&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36" width="100%"/>
+
+<h3>Operations &amp; Analytics &nbsp;·&nbsp; Trust &amp; Safety &nbsp;·&nbsp; AI Automation</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Operations+Associate+%26+Analyst;Trust+%26+Safety+Intelligence;SQL+%7C+Python+%7C+AI+Automation;Building+Smarter+Ops+Tools;Data-Driven+Platform+Intelligence)](https://git.io/typing-svg)
 
@@ -16,44 +18,40 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👋 Hi, I'm Bhumika — Turning Data Into Actionable Intelligence
+## Hi, I am Bhumika — Turning Data Into Actionable Intelligence
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
 
-I'm an **Operations Associate & Analyst** working at the intersection of **Trust & Safety, Data Analytics, and AI Automation**. I protect platforms at scale by combining policy expertise with data-driven decision making — and increasingly, by building AI tools that make ops teams dramatically more efficient.
+I am an **Operations Associate and Analyst** working at the intersection of **Trust, Safety, Data Analytics, and AI Automation**. I protect platforms at scale by combining policy expertise with data-driven decision making — and increasingly, by building AI tools that make ops teams dramatically more efficient.
 
-- 🛡️ Moderating content at scale across multilingual platforms
-- 📊 Writing SQL to surface moderation intelligence & KPIs
-- 🤖 Building AI-powered automation tools for ops workflows
-- 🔍 Detecting anomalies, abuse patterns & emerging trends
-- ⚙️ Designing QA processes & escalation frameworks
-- 🚨 Handling incident response & crisis management
+- Shield: Content moderation at scale across multilingual platforms
+- Chart: Writing SQL to surface moderation intelligence and KPIs
+- Robot: Building AI-powered automation tools for ops workflows
+- Search: Detecting anomalies, abuse patterns and emerging trends
+- Gear: Designing QA processes and escalation frameworks
+- Alert: Handling incident response and crisis management
 
-**Languages:** 🇺🇸 English (Business) · 🇮🇳 Hindi · 🇮🇳 Telugu
+**Languages:** English (Business) · Hindi · Telugu
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 What I Do
+## What I Do
 
-```
-┌──────────────────────┐   ┌──────────────────────┐   ┌──────────────────────┐
-│   🛡️ Trust & Safety  │   │   📊 Data Analytics   │   │   🤖 AI Automation   │
-│                      │   │                      │   │                      │
-│  Content Moderation  │   │  SQL Query Writing   │   │  LLM Report Tools    │
-│  Policy Enforcement  │   │  KPI Tracking        │   │  Workflow Automation │
-│  Incident Response   │   │  Trend Analysis      │   │  Anomaly Detection   │
-│  Quality Assurance   │   │  Pattern Detection   │   │  Scheduled Delivery  │
-│  Escalation Mgmt     │   │  BI Dashboards       │   │  Slack / Email Bots  │
-└──────────────────────┘   └──────────────────────┘   └──────────────────────┘
-```
+| Trust and Safety | Data Analytics | AI Automation |
+|-----------------|----------------|---------------|
+| Content Moderation | SQL Query Writing | LLM Report Tools |
+| Policy Enforcement | KPI Tracking | Workflow Automation |
+| Incident Response | Trend Analysis | Anomaly Detection |
+| Quality Assurance | Pattern Detection | Scheduled Delivery |
+| Escalation Management | BI Dashboards | Slack / Email Bots |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 📊 Data & Analytics
+### Data and Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -62,13 +60,13 @@ I'm an **Operations Associate & Analyst** working at the intersection of **Trust
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 AI & Automation
+### AI and Automation
 ![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3-7c5cfc?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge)
 
-### 🔧 Tools & Platforms
+### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -77,9 +75,9 @@ I'm an **Operations Associate & Analyst** working at the intersection of **Trust
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🎯 Domain Expertise
+### Domain Expertise
 ![Content Moderation](https://img.shields.io/badge/Content_Moderation-FF6B6B?style=for-the-badge)
-![Trust & Safety](https://img.shields.io/badge/Trust_%26_Safety-4ECDC4?style=for-the-badge)
+![Trust and Safety](https://img.shields.io/badge/Trust_and_Safety-4ECDC4?style=for-the-badge)
 ![Policy Enforcement](https://img.shields.io/badge/Policy_Enforcement-45B7D1?style=for-the-badge)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-96CEB4?style=for-the-badge)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-9B59B6?style=for-the-badge)
@@ -87,30 +85,28 @@ I'm an **Operations Associate & Analyst** working at the intersection of **Trust
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Projects
+## Projects
 
-> A mix of AI automation tools I'm building for ops + data science & ML work
-
-### 🤖 AI & Automation
+### AI and Automation Tools
 
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
-| [📋 OPS-AI-REPORT-GENERATOR](https://github.com/AvulaBhumika/OPS-AI-REPORT-GENERATOR) | Auto-pulls ops metrics → detects anomalies → LLM writes reports → delivers to Slack/email on schedule | Python · Groq LLaMA · pandas · Slack API | ✅ Live |
+| [OPS-AI-REPORT-GENERATOR](https://github.com/AvulaBhumika/OPS-AI-REPORT-GENERATOR) | Auto-pulls ops metrics, detects anomalies, LLM writes reports, delivers to Slack or email on schedule | Python · Groq LLaMA · pandas · Slack API | Live |
 
-### 📊 Data Science & ML
+### Data Science and Machine Learning
 
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [🧠 Stroke Prediction ML](https://github.com/AvulaBhumika/Stroke-Prediction-using-Machine-Learning) | Predict stroke risk from demographic & health factors | Python · sklearn · EDA | ⭐ 3 |
-| [💳 Credit Default Pipeline](https://github.com/AvulaBhumika/Credit-Default-Prediction-ML-Pipeline) | XGBoost loan defaulter prediction with full ML pipeline | Python · XGBoost · sklearn | ⭐ 3 |
-| [👥 Customer Segmentation](https://github.com/AvulaBhumika/Customer-Segmentation-using-RFM-Analysis-and-KMeans-Clustering) | RFM analysis + KMeans clustering for customer insights | Python · KMeans · pandas | ⭐ 3 |
-| [📉 Employee Attrition EDA](https://github.com/AvulaBhumika/Employee-Attrition-Analysis-using-Statistical-Analytics-EDA) | Statistical analysis of attrition drivers | Python · seaborn · stats | ⭐ 2 |
-| [💬 Sentiment Analysis](https://github.com/AvulaBhumika/Sentiment-Analysis-using-Multinomial-Naive-Bayes) | End-to-end Naive Bayes sentiment classifier | Python · sklearn · NLP | ⭐ 2 |
-| [💱 Currency Converter](https://github.com/AvulaBhumika/Currency-Converter-Application) | Real-time converter with live exchange rates & Gradio UI | Python · Gradio · API | ⭐ 1 |
+| [Stroke Prediction ML](https://github.com/AvulaBhumika/Stroke-Prediction-using-Machine-Learning) | Predict stroke risk from demographic and health factors | Python · sklearn · EDA | 3 |
+| [Credit Default Pipeline](https://github.com/AvulaBhumika/Credit-Default-Prediction-ML-Pipeline) | XGBoost loan defaulter prediction with full ML pipeline | Python · XGBoost · sklearn | 3 |
+| [Customer Segmentation](https://github.com/AvulaBhumika/Customer-Segmentation-using-RFM-Analysis-and-KMeans-Clustering) | RFM analysis and KMeans clustering for customer insights | Python · KMeans · pandas | 3 |
+| [Employee Attrition EDA](https://github.com/AvulaBhumika/Employee-Attrition-Analysis-using-Statistical-Analytics-EDA) | Statistical analysis of attrition drivers | Python · seaborn · stats | 2 |
+| [Sentiment Analysis](https://github.com/AvulaBhumika/Sentiment-Analysis-using-Multinomial-Naive-Bayes) | End-to-end Naive Bayes sentiment classifier | Python · sklearn · NLP | 2 |
+| [Currency Converter](https://github.com/AvulaBhumika/Currency-Converter-Application) | Real-time converter with live exchange rates and Gradio UI | Python · Gradio · API | 1 |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -125,34 +121,34 @@ I'm an **Operations Associate & Analyst** working at the intersection of **Trust
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📚 Currently Learning
+## Currently Learning
 
 | Skill | Focus | Goal |
 |-------|-------|------|
-| 🤖 LLM & AI Agents | Groq · LangChain · RAG | Build smarter ops automation tools |
-| 🐍 Advanced Python | FastAPI · async · pandas | Replace manual ops workflows end-to-end |
-| 📊 Advanced SQL | Window functions · optimization | Large-scale platform analytics |
-| 📈 Data Visualization | Tableau · Power BI | Turn raw data into clear decisions |
-| 🔍 Vector Search | Embeddings · semantic matching | Content understanding at scale |
+| LLM and AI Agents | Groq · LangChain · RAG | Build smarter ops automation tools |
+| Advanced Python | FastAPI · async · pandas | Replace manual ops workflows end-to-end |
+| Advanced SQL | Window functions · optimization | Large-scale platform analytics |
+| Data Visualization | Tableau · Power BI | Turn raw data into clear decisions |
+| Vector Search | Embeddings · semantic matching | Content understanding at scale |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 My Approach
+## My Approach
 
 ```
-Data Collection  →  Pattern Analysis  →  AI Automation  →  Safer Platforms
- (SQL + APIs)       (Trends + Anomalies)  (LLM + Python)    (Better Outcomes)
+Data Collection  -->  Pattern Analysis  -->  AI Automation  -->  Safer Platforms
+ (SQL + APIs)        (Trends + Anomalies)   (LLM + Python)    (Better Outcomes)
 ```
 
-> *"In God we trust. All others must bring data."* — W. Edwards Deming
+**In God we trust. All others must bring data. — W. Edwards Deming**
 
-I combine **operational excellence** with **analytical rigor** and **AI automation** to solve real platform problems. My goal is to build tools that make ops teams more effective while creating safer, more inclusive digital spaces for millions of users.
+I combine operational excellence with analytical rigor and AI automation to solve real platform problems. My goal is to build tools that make ops teams more effective while creating safer, more inclusive digital spaces for millions of users.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect
+## Let us Connect
 
-I'm always open to conversations about **Trust & Safety · AI Automation · Data Analytics · Safer Internet Communities**
+I am always open to conversations about Trust and Safety, AI Automation, Data Analytics, and Safer Internet Communities.
 
 <div align="center">
 
@@ -161,7 +157,7 @@ I'm always open to conversations about **Trust & Safety · AI Automation · Data
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ab-1111.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhumikaavula90)
 
-⭐ **If you find my work useful, a star on the repo goes a long way!**
+**If you find my work useful, a star on the repo goes a long way!**
 
 </div>
 
@@ -173,6 +169,6 @@ I'm always open to conversations about **Trust & Safety · AI Automation · Data
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Made with 💜 by AB · Operations × Analytics × AI Automation**
+**Made with love by AB · Operations x Analytics x AI Automation**
 
 </div>
